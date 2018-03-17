@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">TallerCardV</string>
+    <string name="Titulo1">Creating a basic app</string>
+    <string name="Texto1">Smart objects and layer based slices to optimice
+    </string>
+    <string name="Fecha1">Feb 14 2019</string>
+
+
 </resources>
