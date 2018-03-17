@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">TallerCardV</string>
     <string name="Titulo1">Creating a basic app</string>
-    <string name="Texto1">Smart objects and layer based slices to optimice
+    <string name="Texto1">Si ya tienes una idea para tu aplicación, puedes
+        saltarte este punto. Si no es así, lo que realmente necesitas es buscar
+        un problema o necesidad al que darle solución, y estos están por todas partes.
     </string>
     <string name="Fecha1">Feb 14 2019</string>
 
